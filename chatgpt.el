@@ -31,7 +31,7 @@
 
 ;;; Code:
 
-(require 'cl-lib)
+(require 'cl)
 (require 'let-alist)
 (require 'subr-x)
 
